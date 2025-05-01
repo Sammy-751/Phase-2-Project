@@ -1,0 +1,9 @@
+
+*.ipynb	diff=jupyternotebook
+
+*.ipynb	merge=jupyternotebook
+*.ipynb text eol=lf
+*.py text eol=lf
+
+
+
