@@ -32,6 +32,9 @@
    Key findings include:
     
    - **Popularity vs. Profit**: A moderate positive correlation (r = 0.40) exists between movie popularity and profit, but it is not a strong predictor of financial success.
+
+![image](./imgs/anova_boxplot.png)
+
    - **Ratings Impact**: Movie ratings (vote averages) show a very weak correlation (r = 0.10) with profit, indicating that high ratings do not necessarily lead to high profits.
    - **Genre Profitability**: ANOVA testing (F-statistic: 1.96, p-value: 0.14) shows no significant difference in profitability among the top three movie genres, suggesting genre alone 
      is not a determinant of success.
