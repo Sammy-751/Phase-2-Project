@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "74007ee9-811d-4153-9619-6d44b7a254e7",
+   "id": "9a66e474-d047-4159-ab3a-c364b6500293",
    "metadata": {},
    "source": [
     "# VIEWERS PRODUCTION STUDIO - Movie Data Analysis\n",
@@ -48,6 +48,14 @@
     "- **Prioritize High-ROI Genres**: Focus on genres with historically high returns on investment rather than just popular ones (e.g., Fantasy-Romance or Adventure-Drama-Sport).\n",
     "- **Optimize Beyond Popularity**: Consider factors like budget efficiency, release timing, and market trends in addition to popularity and ratings when planning film production.\n"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6f5e52c4-0e00-4f36-822a-c315a3c98f99",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
